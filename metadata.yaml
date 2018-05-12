@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38479
     wikipedia: http://en.wikipedia.org/wiki/George_Jacob_Holyoake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39123#Life-and-Character-of-Richard-Carlile
 gutenberg_issued: '2012-03-10'
 gutenberg_type: Text
 identifiers:
